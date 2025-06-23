@@ -1,0 +1,15 @@
+# Core packages
+pandas
+numpy
+
+# Visualization
+matplotlib
+plotly
+
+# Web framework
+shiny
+
+# Optional: Useful extras
+jupyter
+
+
